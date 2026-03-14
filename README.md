@@ -1,3 +1,5 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+I'm+Shivani;Data+Engineer;Snowflake+Enthusiast;LeetCode+Learner)
+
 Hi there 👋 I'm Shivani
 
 💻 **Data & Cloud Enthusiast**
@@ -13,10 +15,9 @@ Hi there 👋 I'm Shivani
 * 🧠 Practicing **Data Structures & Algorithms on LeetCode**
 * 📊 Enjoy building **data pipelines, analytics solutions, and dashboards**
 
-
+<img src="https://skillicons.dev/icons?i=python,cpp,aws,git,github,linux,mysql" />
 
 🛠️ Tech Stack
-<img src="https://skillicons.dev/icons?i=python,cpp,aws,git,github,linux,mysql" />
 **Programming Languages**
 
 * Python
@@ -74,3 +75,7 @@ I regularly practice **Data Structures & Algorithms** to improve my problem-solv
 
 
 ⭐ *Always curious to learn new technologies and build impactful data solutions.*
+
+Visitor Count :
+
+![Visitor Count](https://komarev.com/ghpvc/?username=shiivaniiix)

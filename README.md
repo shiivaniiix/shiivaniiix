@@ -16,7 +16,7 @@ Hi there 👋 I'm Shivani
 
 
 🛠️ Tech Stack
-
+<img src="https://skillicons.dev/icons?i=python,cpp,aws,git,github,linux,mysql" />
 **Programming Languages**
 
 * Python

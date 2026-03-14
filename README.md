@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+I'm+Shivani;Data+Engineer;Snowflake+Enthusiast;LeetCode+Learner)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+Welcome+to+my+profile;Myself+Shivani;Contact+me+if+you+need+any+help;Keep+coding)
 
 Hi there 👋 I'm Shivani
 
